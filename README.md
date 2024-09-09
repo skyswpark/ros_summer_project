@@ -3,7 +3,7 @@
   <a href="https://github.com/skyswpark/GEOL0069_Project">
   </a>
 
-<h3 align="center">Summary of Validation of ERA5 ROS Data with Station Rainfall Data</h3>
+<h3 align="center">Validation of ERA5 ROS Data with Station ROS Data</h3>
 <br />
 <br />
 <br />
