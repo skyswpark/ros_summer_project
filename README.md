@@ -34,6 +34,10 @@ Alternative visualizations, such as bar charts and stacked area plots, were cons
 
 ERA5 rainfall seems to underestimate rainfall compared to station data rainfall.
 
-![image](https://github.com/user-attachments/assets/ecabee31-ab40-41a3-91f3-001b8838b8a4)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/a5449bbf-ceac-4f33-95b4-513d6e620dbf" alt="Histogram">
+</p>
 
-![image](https://github.com/user-attachments/assets/5d18fb06-f031-4f0e-b6b2-9db0782bf62e)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/94c268c1-86a2-40c8-b379-f03b2e7024c2" alt="Map">
+</p>
