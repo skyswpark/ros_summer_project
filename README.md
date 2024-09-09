@@ -8,7 +8,7 @@
 </div>
 
 
-Overview:
+## Overview:
 
 The focus of this work was to analyze rainfall data from stations across Northern Europe and Asia to compare it with interpolated rainfall data from the ERA5 dataset. The goal was to better understand the differences between observed station rainfall and ERA5 interpolations, specifically by comparing the frequency of differences, trends over time, and regional variations. This analysis involved cleaning the data, applying specific thresholds to manage data precision, and visualizing the results to identify patterns.
 
@@ -25,7 +25,9 @@ The analysis focused on four key categories of comparison between the weather st
 
 The focus of this analysis was to visualize and quantify how often these discrepancies occur, across different years and stations (regions). 
 
-Results:
+<br />
+
+## Results:
 
 Several figures were produced to assess how discrepancies evolved over time and across regions. Initially, time series plots were created to illustrate the percentage of discrepancies for each region over several years. These plots were helpful in identifying trends but had limitations, particularly when lines overlapped, making it difficult to distinguish between different categories.
 
