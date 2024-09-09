@@ -24,5 +24,7 @@ Several figures were produced to assess how discrepancies evolved over time and 
 Alternative visualizations, such as bar charts and stacked area plots, were considered to better highlight the relative contributions of different discrepancy categories. Additionally, histograms were used to explore the frequency distribution of rainfall values, ensuring that data cleaning and thresholding were properly applied. The ERA5 rainfall was rounded as the station data rainfall did not have any decimal points.
 
 ERA5 rainfall seems to underestimate rainfall compared to station data rainfall.
+
 ![image](https://github.com/user-attachments/assets/ecabee31-ab40-41a3-91f3-001b8838b8a4)
+
 ![image](https://github.com/user-attachments/assets/5d18fb06-f031-4f0e-b6b2-9db0782bf62e)
